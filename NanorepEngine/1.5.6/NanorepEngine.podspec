@@ -11,7 +11,7 @@ s.homepage         = 'https://github.com/nanorepsdk/NanorepUI/wiki'
 s.license = 'private'
 s.author           = 'nanorep'
 s.source = {
-    "http" => "https://dl.bintray.com/nanorep/Specs-Dev/NanorepEngine_version_v1.5.6.rc8_commit_a02ccba28d80d1ba5f32c872b734d383def5c763.zip"
+    "http" => "https://dl.bintray.com/nanorep/Specs-Dev/NanorepEngine_version_v1.5.6.rc9_commit_f6c5ca1355c9c752102b70998142bdf8703068b2.zip"
 }
 s.vendored_frameworks = 'NanorepEngine.framework'
 s.requires_arc = true
