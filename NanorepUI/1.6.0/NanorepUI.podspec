@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
   s.license = ''
   s.author           = 'Bold360'
 s.source = {
-"http" => "https://dl.bintray.com/nanorep/Specs-Dev/NanorepUI_version_v1.6.0.rc9_commit_d01d0ca33d386236051abbaf1d619d7f85a016b6.zip"
+"http" => "https://dl.bintray.com/nanorep/Specs-Dev/NanorepUI_version_v1.6.0.rc10_commit_0d1ae2a4ffdaf52f63431ead695459b87f1cea6b.zip"
 }
   s.vendored_frameworks = 'NanorepUI.framework'
   s.requires_arc = true
